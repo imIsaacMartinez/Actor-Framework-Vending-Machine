@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Cobro Prod Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Cobro Prod Msg/Cobro Prod Msg.lvclass"/>
 		<Item Name="Draw the vi Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Draw the vi Msg/Draw the vi Msg.lvclass"/>
 		<Item Name="Inventory Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Inventory Msg/Inventory Msg.lvclass"/>
 		<Item Name="Producto extraccion Msg.lvclass" Type="LVClass" URL="../../Productos Messages/Producto extraccion Msg/Producto extraccion Msg.lvclass"/>
