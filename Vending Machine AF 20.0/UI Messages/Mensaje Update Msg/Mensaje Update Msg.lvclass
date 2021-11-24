@@ -44,6 +44,6 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">8388624</Property>
 	</Item>
 </LVClass>
