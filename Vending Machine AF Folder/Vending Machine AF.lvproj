@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
 		<Item Name="Monedas.lvlib" Type="Library" URL="../Monedas/Monedas.lvlib"/>
+		<Item Name="Productos.lvlib" Type="Library" URL="../Productos/Productos.lvlib"/>
 		<Item Name="UI.lvlib" Type="Library" URL="../UI/UI.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
