@@ -11,6 +11,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Launcher.vi" Type="VI" URL="../Launcher.vi"/>
+		<Item Name="Mensajes.lvlib" Type="Library" URL="../Mensajes/Mensajes.lvlib"/>
 		<Item Name="Monedas.lvlib" Type="Library" URL="../Monedas/Monedas.lvlib"/>
 		<Item Name="Productos.lvlib" Type="Library" URL="../Productos/Productos.lvlib"/>
 		<Item Name="UI.lvlib" Type="Library" URL="../UI/UI.lvlib"/>
