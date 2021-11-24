@@ -6,6 +6,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Cobro Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/Cobro Msg/Cobro Msg.lvclass"/>
 		<Item Name="Credito de Monedas Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/Credito de Monedas Msg/Credito de Monedas Msg.lvclass"/>
+		<Item Name="Dinero aCT Msg.lvclass" Type="LVClass" URL="../../Monedas Messages/Dinero aCT Msg/Dinero aCT Msg.lvclass"/>
 		<Item Name="Draw the vi Msg.lvclass" Type="LVClass" URL="../Monedas Messages/Draw the vi Msg/Draw the vi Msg.lvclass"/>
 	</Item>
 	<Item Name="Monedas.lvclass" Type="LVClass" URL="../Monedas.lvclass"/>
